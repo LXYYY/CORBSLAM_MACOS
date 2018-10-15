@@ -1,0 +1,8 @@
+prefix=/Users/xiangyuliu/Library/corbslam/install
+
+Name: corbslam_client
+Description: Description of corbslam_client
+Version: 0.0.0
+Cflags: -I/Users/xiangyuliu/Library/corbslam/install/include
+Libs: -L/Users/xiangyuliu/Library/corbslam/install/lib 
+Requires: 

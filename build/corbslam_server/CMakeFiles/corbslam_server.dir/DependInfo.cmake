@@ -1,0 +1,48 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_server/src/GlobalOptimize.cpp" "/Users/xiangyuliu/Library/corbslam/build/corbslam_server/CMakeFiles/corbslam_server.dir/src/GlobalOptimize.cpp.o"
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_server/src/MapFusion.cpp" "/Users/xiangyuliu/Library/corbslam/build/corbslam_server/CMakeFiles/corbslam_server.dir/src/MapFusion.cpp.o"
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_server/src/PubToClient.cpp" "/Users/xiangyuliu/Library/corbslam/build/corbslam_server/CMakeFiles/corbslam_server.dir/src/PubToClient.cpp.o"
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_server/src/ServerMap.cpp" "/Users/xiangyuliu/Library/corbslam/build/corbslam_server/CMakeFiles/corbslam_server.dir/src/ServerMap.cpp.o"
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_server/src/ServerMapView.cpp" "/Users/xiangyuliu/Library/corbslam/build/corbslam_server/CMakeFiles/corbslam_server.dir/src/ServerMapView.cpp.o"
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_server/src/main.cpp" "/Users/xiangyuliu/Library/corbslam/build/corbslam_server/CMakeFiles/corbslam_server.dir/src/main.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "Clang")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "COMPILEDWITHC11"
+  "ROS_BUILD_SHARED_LIBS=1"
+  "ROS_PACKAGE_NAME=\"corbslam_server\""
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/Users/xiangyuliu/Library/corbslam/devel/include"
+  "/usr/local/opencv2/include/opencv"
+  "/usr/local/opencv2/include"
+  "/opt/ros/kinetic/include"
+  "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
+  "/usr/local/boost@1.64/include"
+  "/usr/local/Cellar/glog/0.3.5_3/include"
+  "/usr/local/lib/cmake/Pangolin/../../../include"
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_client"
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_client/include"
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_server"
+  "/Users/xiangyuliu/Library/corbslam/src/corbslam_server/include"
+  "/usr/local/include/pcl-1.8"
+  "/usr/local/include"
+  "/usr/local/include/eigen3"
+  "/System/Library/Frameworks/OpenGL.framework"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

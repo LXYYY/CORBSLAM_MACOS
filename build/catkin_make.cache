@@ -1,0 +1,2 @@
+corbslam_client:corbslam_server
+-DCATKIN_DEVEL_PREFIX=/Users/xiangyuliu/Library/corbslam/devel -DCMAKE_INSTALL_PREFIX=/Users/xiangyuliu/Library/corbslam/install -G Unix Makefiles
